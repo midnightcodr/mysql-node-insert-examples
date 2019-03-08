@@ -5,7 +5,7 @@
   "main": "batch.js",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "mysql2": "^1.5.1"
   },
   "devDependencies": {},
@@ -14,5 +14,7 @@
   },
   "author": "",
   "license": "ISC",
-  "engines" : { "node" : ">=8" } 
+  "engines": {
+    "node": ">=8"
+  }
 }
